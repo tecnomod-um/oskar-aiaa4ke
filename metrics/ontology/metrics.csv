@@ -1,0 +1,395 @@
+Metric,IRI,Value,Scaled Value,Class
+Lexical regularities per class,LexicalRegularitiesPerClassMetric,0.0,1.0,
+Annotation properties with no description,AnnotationPropertiesWithNoDescriptionMetric,1.0,1.0,
+Names per data property,NamesPerDataPropertyMetric,1.0,5.0,
+Coupling between objects,CouplingBetweenObjectsMetric,1.5,5.0,
+Number of properties,NumberOfPropertiesMetric,13.142857142857142,1.0,
+Synonyms per data property,SynonymsPerDataPropertyMetric,0.0,1.0,
+Annotation richness,AnnotationRichnessMetric,0.42857142857142855,3.0,
+Descriptions per annotation property,DescriptionsPerAnnotationPropertyMetric,0.0,1.0,
+Ancestors per class,AncestorsPerClassMetric,0.42857142857142855,3.0,
+Lexically suggest logically define,LexicallySuggestLogicallyDefineMetric,NaN,1.0,
+Attribute richness,AttributeRichnessMetric,3.2857142857142856,5.0,
+Lack of cohesion in methods,LackOfCohesionInMethodsMetric,2.0,5.0,
+Data properties with no description,DataPropertiesWithNoDescriptionMetric,0.0,5.0,
+Systematic naming,SystematicNamingMetric,NaN,1.0,
+Number of classes,NumberOfClassesMetric,6.0,1.0,
+Number of children classes,NumberOfChildrenClassesMetric,1.5,5.0,
+Object properties with no name,ObjectPropertiesWithNoNameMetric,0.0,5.0,
+Relationships per class,RelationshipsPerClassMetric,0.8571428571428571,5.0,
+Properties richness,PropertiesRichnessMetric,0.9387755102040817,5.0,
+Descriptions per class,DescriptionsPerClassMetric,0.5,1.0,
+Descriptions per data property,DescriptionsPerDataPropertyMetric,1.0,5.0,
+Names per annotation property,NamesPerAnnotationPropertyMetric,0.0,1.0,
+Number of ancestor classes,NumberOfAncestorClassesMetric,1.0,5.0,
+Data properties with no synonym,DataPropertiesWithNoSynonymMetric,1.0,1.0,
+Descriptions per property,DescriptionsPerPropertyMetric,0.6764705882352942,1.0,
+Weight method per class 2,WeightMethodPerClass2Metric,1.0,5.0,
+Synonyms per property,SynonymsPerPropertyMetric,0.0,1.0,
+Annotation properties with no synonym,AnnotationPropertiesWithNoSynonymMetric,1.0,1.0,
+Data properties with no name,DataPropertiesWithNoNameMetric,0.0,5.0,
+Names per object property,NamesPerObjectPropertyMetric,1.0,5.0,
+Annotation properties with no name,AnnotationPropertiesWithNoNameMetric,1.0,1.0,
+Classes with no description,ClassesWithNoDescriptionMetric,0.5,1.0,
+Synonyms per class,SynonymsPerClassMetric,0.0,1.0,
+Relationship richness,RelationshipRichnessMetric,0.061224489795918366,1.0,
+Response for a class,ResponseForAClassMetric,14.0,1.0,
+Number of lexical regularity classes,NumberOfLexicalRegularityClassesMetric,0.0,1.0,
+Weight method per class,WeightMethodPerClassMetric,2.0,5.0,
+Object properties with no description,ObjectPropertiesWithNoDescriptionMetric,0.0,5.0,
+Tangledness,TanglednessMetric,0.0,1.0,
+Classes with no synonym,ClassesWithNoSynonymMetric,1.0,1.0,
+Descriptions per object property,DescriptionsPerObjectPropertyMetric,1.0,5.0,
+Depth of subsumption hierarchy,DepthOfSubsumptionHierarchyMetric,3.0,4.0,
+Classes with no name,ClassesWithNoNameMetric,0.5,1.0,
+Names per class,NamesPerClassMetric,0.5,1.0,
+Names per property,NamesPerPropertyMetric,0.6764705882352942,1.0,
+Class richness,ClassRichnessMetric,0.0,1.0,
+Object properties with no synonym,ObjectPropertiesWithNoSynonymMetric,1.0,1.0,
+Lexical regularity class percentage,LexicalRegularityClassPercentageMetric,0.0,1.0,
+Synonyms per annotation property,SynonymsPerAnnotationPropertyMetric,0.0,1.0,
+Synonyms per object property,SynonymsPerObjectPropertyMetric,0.0,1.0,
+Tangledness 2,Tangledness2Metric,0.0,1.0,
+Number of lexical regularities,NumberOfLexicalRegularitiesMetric,0.0,1.0,
+Classes with no name,ClassesWithNoNameMetric,1.0,,https://www.semanticprojectcontrol.com/ilap/merged/Task
+Descriptions per class,DescriptionsPerClassMetric,0.0,,https://www.semanticprojectcontrol.com/ilap/merged/Task
+Names per class,NamesPerClassMetric,0.0,,https://www.semanticprojectcontrol.com/ilap/merged/Task
+Classes with no description,ClassesWithNoDescriptionMetric,1.0,,https://www.semanticprojectcontrol.com/ilap/merged/Task
+Synonyms per class,SynonymsPerClassMetric,0.0,,https://www.semanticprojectcontrol.com/ilap/merged/Task
+Classes with no synonym,ClassesWithNoSynonymMetric,1.0,,https://www.semanticprojectcontrol.com/ilap/merged/Task
+Descriptions per property,DescriptionsPerPropertyMetric,0.0,,http://purl.org/dc/elements/1.1/title
+Annotation properties with no description,AnnotationPropertiesWithNoDescriptionMetric,1.0,,http://purl.org/dc/elements/1.1/title
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://purl.org/dc/elements/1.1/title
+Descriptions per annotation property,DescriptionsPerAnnotationPropertyMetric,0.0,,http://purl.org/dc/elements/1.1/title
+Names per property,NamesPerPropertyMetric,0.0,,http://purl.org/dc/elements/1.1/title
+Synonyms per annotation property,SynonymsPerAnnotationPropertyMetric,0.0,,http://purl.org/dc/elements/1.1/title
+Names per annotation property,NamesPerAnnotationPropertyMetric,0.0,,http://purl.org/dc/elements/1.1/title
+Annotation properties with no synonym,AnnotationPropertiesWithNoSynonymMetric,1.0,,http://purl.org/dc/elements/1.1/title
+Annotation properties with no name,AnnotationPropertiesWithNoNameMetric,1.0,,http://purl.org/dc/elements/1.1/title
+Descriptions per property,DescriptionsPerPropertyMetric,1.0,,http://example.org/OSKAR/projectId
+Synonyms per data property,SynonymsPerDataPropertyMetric,0.0,,http://example.org/OSKAR/projectId
+Names per data property,NamesPerDataPropertyMetric,1.0,,http://example.org/OSKAR/projectId
+Names per property,NamesPerPropertyMetric,1.0,,http://example.org/OSKAR/projectId
+Data properties with no description,DataPropertiesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/projectId
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://example.org/OSKAR/projectId
+Descriptions per data property,DescriptionsPerDataPropertyMetric,1.0,,http://example.org/OSKAR/projectId
+Data properties with no name,DataPropertiesWithNoNameMetric,0.0,,http://example.org/OSKAR/projectId
+Data properties with no synonym,DataPropertiesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/projectId
+Descriptions per property,DescriptionsPerPropertyMetric,1.0,,http://example.org/OSKAR/physicalComplete
+Names per data property,NamesPerDataPropertyMetric,1.0,,http://example.org/OSKAR/physicalComplete
+Synonyms per data property,SynonymsPerDataPropertyMetric,0.0,,http://example.org/OSKAR/physicalComplete
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://example.org/OSKAR/physicalComplete
+Data properties with no description,DataPropertiesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/physicalComplete
+Names per property,NamesPerPropertyMetric,1.0,,http://example.org/OSKAR/physicalComplete
+Descriptions per data property,DescriptionsPerDataPropertyMetric,1.0,,http://example.org/OSKAR/physicalComplete
+Data properties with no name,DataPropertiesWithNoNameMetric,0.0,,http://example.org/OSKAR/physicalComplete
+Data properties with no synonym,DataPropertiesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/physicalComplete
+Descriptions per property,DescriptionsPerPropertyMetric,1.0,,http://example.org/OSKAR/projectOverallName
+Names per data property,NamesPerDataPropertyMetric,1.0,,http://example.org/OSKAR/projectOverallName
+Synonyms per data property,SynonymsPerDataPropertyMetric,0.0,,http://example.org/OSKAR/projectOverallName
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://example.org/OSKAR/projectOverallName
+Names per property,NamesPerPropertyMetric,1.0,,http://example.org/OSKAR/projectOverallName
+Data properties with no description,DataPropertiesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/projectOverallName
+Descriptions per data property,DescriptionsPerDataPropertyMetric,1.0,,http://example.org/OSKAR/projectOverallName
+Data properties with no name,DataPropertiesWithNoNameMetric,0.0,,http://example.org/OSKAR/projectOverallName
+Data properties with no synonym,DataPropertiesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/projectOverallName
+Descriptions per property,DescriptionsPerPropertyMetric,1.0,,http://example.org/OSKAR/finish
+Synonyms per data property,SynonymsPerDataPropertyMetric,0.0,,http://example.org/OSKAR/finish
+Names per data property,NamesPerDataPropertyMetric,1.0,,http://example.org/OSKAR/finish
+Data properties with no description,DataPropertiesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/finish
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://example.org/OSKAR/finish
+Names per property,NamesPerPropertyMetric,1.0,,http://example.org/OSKAR/finish
+Descriptions per data property,DescriptionsPerDataPropertyMetric,1.0,,http://example.org/OSKAR/finish
+Data properties with no name,DataPropertiesWithNoNameMetric,0.0,,http://example.org/OSKAR/finish
+Data properties with no synonym,DataPropertiesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/finish
+Descriptions per property,DescriptionsPerPropertyMetric,1.0,,http://example.org/OSKAR/projectName
+Names per data property,NamesPerDataPropertyMetric,1.0,,http://example.org/OSKAR/projectName
+Synonyms per data property,SynonymsPerDataPropertyMetric,0.0,,http://example.org/OSKAR/projectName
+Data properties with no description,DataPropertiesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/projectName
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://example.org/OSKAR/projectName
+Names per property,NamesPerPropertyMetric,1.0,,http://example.org/OSKAR/projectName
+Descriptions per data property,DescriptionsPerDataPropertyMetric,1.0,,http://example.org/OSKAR/projectName
+Data properties with no name,DataPropertiesWithNoNameMetric,0.0,,http://example.org/OSKAR/projectName
+Data properties with no synonym,DataPropertiesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/projectName
+Descriptions per property,DescriptionsPerPropertyMetric,1.0,,http://example.org/OSKAR/projectFinish
+Names per data property,NamesPerDataPropertyMetric,1.0,,http://example.org/OSKAR/projectFinish
+Synonyms per data property,SynonymsPerDataPropertyMetric,0.0,,http://example.org/OSKAR/projectFinish
+Names per property,NamesPerPropertyMetric,1.0,,http://example.org/OSKAR/projectFinish
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://example.org/OSKAR/projectFinish
+Data properties with no description,DataPropertiesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/projectFinish
+Descriptions per data property,DescriptionsPerDataPropertyMetric,1.0,,http://example.org/OSKAR/projectFinish
+Data properties with no name,DataPropertiesWithNoNameMetric,0.0,,http://example.org/OSKAR/projectFinish
+Data properties with no synonym,DataPropertiesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/projectFinish
+Descriptions per property,DescriptionsPerPropertyMetric,1.0,,http://example.org/OSKAR/udfPcProjectname
+Names per data property,NamesPerDataPropertyMetric,1.0,,http://example.org/OSKAR/udfPcProjectname
+Synonyms per data property,SynonymsPerDataPropertyMetric,0.0,,http://example.org/OSKAR/udfPcProjectname
+Names per property,NamesPerPropertyMetric,1.0,,http://example.org/OSKAR/udfPcProjectname
+Data properties with no description,DataPropertiesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/udfPcProjectname
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://example.org/OSKAR/udfPcProjectname
+Descriptions per data property,DescriptionsPerDataPropertyMetric,1.0,,http://example.org/OSKAR/udfPcProjectname
+Data properties with no name,DataPropertiesWithNoNameMetric,0.0,,http://example.org/OSKAR/udfPcProjectname
+Data properties with no synonym,DataPropertiesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/udfPcProjectname
+Descriptions per property,DescriptionsPerPropertyMetric,1.0,,http://example.org/OSKAR/dateAdded
+Synonyms per data property,SynonymsPerDataPropertyMetric,0.0,,http://example.org/OSKAR/dateAdded
+Names per data property,NamesPerDataPropertyMetric,1.0,,http://example.org/OSKAR/dateAdded
+Names per property,NamesPerPropertyMetric,1.0,,http://example.org/OSKAR/dateAdded
+Data properties with no description,DataPropertiesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/dateAdded
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://example.org/OSKAR/dateAdded
+Descriptions per data property,DescriptionsPerDataPropertyMetric,1.0,,http://example.org/OSKAR/dateAdded
+Data properties with no name,DataPropertiesWithNoNameMetric,0.0,,http://example.org/OSKAR/dateAdded
+Data properties with no synonym,DataPropertiesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/dateAdded
+Classes with no name,ClassesWithNoNameMetric,1.0,,http://linked.data.gov.au/def/project#Project
+Descriptions per class,DescriptionsPerClassMetric,0.0,,http://linked.data.gov.au/def/project#Project
+Names per class,NamesPerClassMetric,0.0,,http://linked.data.gov.au/def/project#Project
+Classes with no description,ClassesWithNoDescriptionMetric,1.0,,http://linked.data.gov.au/def/project#Project
+Synonyms per class,SynonymsPerClassMetric,0.0,,http://linked.data.gov.au/def/project#Project
+Classes with no synonym,ClassesWithNoSynonymMetric,1.0,,http://linked.data.gov.au/def/project#Project
+Descriptions per property,DescriptionsPerPropertyMetric,0.0,,http://purl.org/dc/terms/description
+Annotation properties with no description,AnnotationPropertiesWithNoDescriptionMetric,1.0,,http://purl.org/dc/terms/description
+Names per property,NamesPerPropertyMetric,0.0,,http://purl.org/dc/terms/description
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://purl.org/dc/terms/description
+Descriptions per annotation property,DescriptionsPerAnnotationPropertyMetric,0.0,,http://purl.org/dc/terms/description
+Synonyms per annotation property,SynonymsPerAnnotationPropertyMetric,0.0,,http://purl.org/dc/terms/description
+Annotation properties with no synonym,AnnotationPropertiesWithNoSynonymMetric,1.0,,http://purl.org/dc/terms/description
+Names per annotation property,NamesPerAnnotationPropertyMetric,0.0,,http://purl.org/dc/terms/description
+Annotation properties with no name,AnnotationPropertiesWithNoNameMetric,1.0,,http://purl.org/dc/terms/description
+Descriptions per property,DescriptionsPerPropertyMetric,1.0,,http://example.org/OSKAR/projId
+Names per data property,NamesPerDataPropertyMetric,1.0,,http://example.org/OSKAR/projId
+Synonyms per data property,SynonymsPerDataPropertyMetric,0.0,,http://example.org/OSKAR/projId
+Data properties with no description,DataPropertiesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/projId
+Names per property,NamesPerPropertyMetric,1.0,,http://example.org/OSKAR/projId
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://example.org/OSKAR/projId
+Descriptions per data property,DescriptionsPerDataPropertyMetric,1.0,,http://example.org/OSKAR/projId
+Data properties with no name,DataPropertiesWithNoNameMetric,0.0,,http://example.org/OSKAR/projId
+Data properties with no synonym,DataPropertiesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/projId
+Descriptions per property,DescriptionsPerPropertyMetric,1.0,,http://example.org/OSKAR/revAlphanumeric
+Names per data property,NamesPerDataPropertyMetric,1.0,,http://example.org/OSKAR/revAlphanumeric
+Synonyms per data property,SynonymsPerDataPropertyMetric,0.0,,http://example.org/OSKAR/revAlphanumeric
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://example.org/OSKAR/revAlphanumeric
+Names per property,NamesPerPropertyMetric,1.0,,http://example.org/OSKAR/revAlphanumeric
+Data properties with no description,DataPropertiesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/revAlphanumeric
+Descriptions per data property,DescriptionsPerDataPropertyMetric,1.0,,http://example.org/OSKAR/revAlphanumeric
+Data properties with no name,DataPropertiesWithNoNameMetric,0.0,,http://example.org/OSKAR/revAlphanumeric
+Data properties with no synonym,DataPropertiesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/revAlphanumeric
+Classes with no name,ClassesWithNoNameMetric,1.0,,http://www.w3.org/ns/prov#Activity
+Descriptions per class,DescriptionsPerClassMetric,0.0,,http://www.w3.org/ns/prov#Activity
+Classes with no description,ClassesWithNoDescriptionMetric,1.0,,http://www.w3.org/ns/prov#Activity
+Names per class,NamesPerClassMetric,0.0,,http://www.w3.org/ns/prov#Activity
+Synonyms per class,SynonymsPerClassMetric,0.0,,http://www.w3.org/ns/prov#Activity
+Classes with no synonym,ClassesWithNoSynonymMetric,1.0,,http://www.w3.org/ns/prov#Activity
+Descriptions per property,DescriptionsPerPropertyMetric,1.0,,http://example.org/OSKAR/activityName
+Synonyms per data property,SynonymsPerDataPropertyMetric,0.0,,http://example.org/OSKAR/activityName
+Names per data property,NamesPerDataPropertyMetric,1.0,,http://example.org/OSKAR/activityName
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://example.org/OSKAR/activityName
+Data properties with no description,DataPropertiesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/activityName
+Names per property,NamesPerPropertyMetric,1.0,,http://example.org/OSKAR/activityName
+Descriptions per data property,DescriptionsPerDataPropertyMetric,1.0,,http://example.org/OSKAR/activityName
+Data properties with no name,DataPropertiesWithNoNameMetric,0.0,,http://example.org/OSKAR/activityName
+Data properties with no synonym,DataPropertiesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/activityName
+Descriptions per property,DescriptionsPerPropertyMetric,0.0,,http://www.w3.org/2004/02/skos/core#definition
+Annotation properties with no description,AnnotationPropertiesWithNoDescriptionMetric,1.0,,http://www.w3.org/2004/02/skos/core#definition
+Names per property,NamesPerPropertyMetric,0.0,,http://www.w3.org/2004/02/skos/core#definition
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://www.w3.org/2004/02/skos/core#definition
+Descriptions per annotation property,DescriptionsPerAnnotationPropertyMetric,0.0,,http://www.w3.org/2004/02/skos/core#definition
+Synonyms per annotation property,SynonymsPerAnnotationPropertyMetric,0.0,,http://www.w3.org/2004/02/skos/core#definition
+Annotation properties with no synonym,AnnotationPropertiesWithNoSynonymMetric,1.0,,http://www.w3.org/2004/02/skos/core#definition
+Names per annotation property,NamesPerAnnotationPropertyMetric,0.0,,http://www.w3.org/2004/02/skos/core#definition
+Annotation properties with no name,AnnotationPropertiesWithNoNameMetric,1.0,,http://www.w3.org/2004/02/skos/core#definition
+Descriptions per property,DescriptionsPerPropertyMetric,1.0,,http://example.org/OSKAR/portfolioElementLong
+Synonyms per data property,SynonymsPerDataPropertyMetric,0.0,,http://example.org/OSKAR/portfolioElementLong
+Names per data property,NamesPerDataPropertyMetric,1.0,,http://example.org/OSKAR/portfolioElementLong
+Names per property,NamesPerPropertyMetric,1.0,,http://example.org/OSKAR/portfolioElementLong
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://example.org/OSKAR/portfolioElementLong
+Data properties with no description,DataPropertiesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/portfolioElementLong
+Descriptions per data property,DescriptionsPerDataPropertyMetric,1.0,,http://example.org/OSKAR/portfolioElementLong
+Data properties with no name,DataPropertiesWithNoNameMetric,0.0,,http://example.org/OSKAR/portfolioElementLong
+Data properties with no synonym,DataPropertiesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/portfolioElementLong
+Descriptions per property,DescriptionsPerPropertyMetric,1.0,,http://example.org/OSKAR/start
+Synonyms per data property,SynonymsPerDataPropertyMetric,0.0,,http://example.org/OSKAR/start
+Names per data property,NamesPerDataPropertyMetric,1.0,,http://example.org/OSKAR/start
+Names per property,NamesPerPropertyMetric,1.0,,http://example.org/OSKAR/start
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://example.org/OSKAR/start
+Data properties with no description,DataPropertiesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/start
+Descriptions per data property,DescriptionsPerDataPropertyMetric,1.0,,http://example.org/OSKAR/start
+Data properties with no name,DataPropertiesWithNoNameMetric,0.0,,http://example.org/OSKAR/start
+Data properties with no synonym,DataPropertiesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/start
+Classes with no name,ClassesWithNoNameMetric,0.0,,http://example.org/OSKAR/Task
+Descriptions per class,DescriptionsPerClassMetric,1.0,,http://example.org/OSKAR/Task
+Names per class,NamesPerClassMetric,1.0,,http://example.org/OSKAR/Task
+Classes with no description,ClassesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/Task
+Synonyms per class,SynonymsPerClassMetric,0.0,,http://example.org/OSKAR/Task
+Classes with no synonym,ClassesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/Task
+Descriptions per property,DescriptionsPerPropertyMetric,1.0,,http://example.org/OSKAR/totalFloatHrCnt
+Names per data property,NamesPerDataPropertyMetric,1.0,,http://example.org/OSKAR/totalFloatHrCnt
+Synonyms per data property,SynonymsPerDataPropertyMetric,0.0,,http://example.org/OSKAR/totalFloatHrCnt
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://example.org/OSKAR/totalFloatHrCnt
+Names per property,NamesPerPropertyMetric,1.0,,http://example.org/OSKAR/totalFloatHrCnt
+Data properties with no description,DataPropertiesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/totalFloatHrCnt
+Descriptions per data property,DescriptionsPerDataPropertyMetric,1.0,,http://example.org/OSKAR/totalFloatHrCnt
+Data properties with no name,DataPropertiesWithNoNameMetric,0.0,,http://example.org/OSKAR/totalFloatHrCnt
+Data properties with no synonym,DataPropertiesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/totalFloatHrCnt
+Descriptions per property,DescriptionsPerPropertyMetric,0.0,,http://purl.org/vocab/vann/preferredNamespacePrefix
+Annotation properties with no description,AnnotationPropertiesWithNoDescriptionMetric,1.0,,http://purl.org/vocab/vann/preferredNamespacePrefix
+Names per property,NamesPerPropertyMetric,0.0,,http://purl.org/vocab/vann/preferredNamespacePrefix
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://purl.org/vocab/vann/preferredNamespacePrefix
+Descriptions per annotation property,DescriptionsPerAnnotationPropertyMetric,0.0,,http://purl.org/vocab/vann/preferredNamespacePrefix
+Synonyms per annotation property,SynonymsPerAnnotationPropertyMetric,0.0,,http://purl.org/vocab/vann/preferredNamespacePrefix
+Annotation properties with no synonym,AnnotationPropertiesWithNoSynonymMetric,1.0,,http://purl.org/vocab/vann/preferredNamespacePrefix
+Names per annotation property,NamesPerAnnotationPropertyMetric,0.0,,http://purl.org/vocab/vann/preferredNamespacePrefix
+Annotation properties with no name,AnnotationPropertiesWithNoNameMetric,1.0,,http://purl.org/vocab/vann/preferredNamespacePrefix
+Descriptions per property,DescriptionsPerPropertyMetric,1.0,,http://example.org/OSKAR/scheduler
+Names per data property,NamesPerDataPropertyMetric,1.0,,http://example.org/OSKAR/scheduler
+Synonyms per data property,SynonymsPerDataPropertyMetric,0.0,,http://example.org/OSKAR/scheduler
+Data properties with no description,DataPropertiesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/scheduler
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://example.org/OSKAR/scheduler
+Names per property,NamesPerPropertyMetric,1.0,,http://example.org/OSKAR/scheduler
+Descriptions per data property,DescriptionsPerDataPropertyMetric,1.0,,http://example.org/OSKAR/scheduler
+Data properties with no name,DataPropertiesWithNoNameMetric,0.0,,http://example.org/OSKAR/scheduler
+Data properties with no synonym,DataPropertiesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/scheduler
+Classes with no name,ClassesWithNoNameMetric,0.0,,http://example.org/OSKAR/Project
+Descriptions per class,DescriptionsPerClassMetric,1.0,,http://example.org/OSKAR/Project
+Names per class,NamesPerClassMetric,1.0,,http://example.org/OSKAR/Project
+Classes with no description,ClassesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/Project
+Synonyms per class,SynonymsPerClassMetric,0.0,,http://example.org/OSKAR/Project
+Classes with no synonym,ClassesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/Project
+Descriptions per property,DescriptionsPerPropertyMetric,1.0,,http://example.org/OSKAR/statusDate
+Names per data property,NamesPerDataPropertyMetric,1.0,,http://example.org/OSKAR/statusDate
+Synonyms per data property,SynonymsPerDataPropertyMetric,0.0,,http://example.org/OSKAR/statusDate
+Data properties with no description,DataPropertiesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/statusDate
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://example.org/OSKAR/statusDate
+Names per property,NamesPerPropertyMetric,1.0,,http://example.org/OSKAR/statusDate
+Descriptions per data property,DescriptionsPerDataPropertyMetric,1.0,,http://example.org/OSKAR/statusDate
+Data properties with no name,DataPropertiesWithNoNameMetric,0.0,,http://example.org/OSKAR/statusDate
+Data properties with no synonym,DataPropertiesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/statusDate
+Descriptions per property,DescriptionsPerPropertyMetric,1.0,,http://example.org/OSKAR/portfolioElementShort
+Synonyms per data property,SynonymsPerDataPropertyMetric,0.0,,http://example.org/OSKAR/portfolioElementShort
+Names per data property,NamesPerDataPropertyMetric,1.0,,http://example.org/OSKAR/portfolioElementShort
+Names per property,NamesPerPropertyMetric,1.0,,http://example.org/OSKAR/portfolioElementShort
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://example.org/OSKAR/portfolioElementShort
+Data properties with no description,DataPropertiesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/portfolioElementShort
+Descriptions per data property,DescriptionsPerDataPropertyMetric,1.0,,http://example.org/OSKAR/portfolioElementShort
+Data properties with no name,DataPropertiesWithNoNameMetric,0.0,,http://example.org/OSKAR/portfolioElementShort
+Data properties with no synonym,DataPropertiesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/portfolioElementShort
+Descriptions per property,DescriptionsPerPropertyMetric,1.0,,http://example.org/OSKAR/projectStart
+Synonyms per data property,SynonymsPerDataPropertyMetric,0.0,,http://example.org/OSKAR/projectStart
+Names per data property,NamesPerDataPropertyMetric,1.0,,http://example.org/OSKAR/projectStart
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://example.org/OSKAR/projectStart
+Data properties with no description,DataPropertiesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/projectStart
+Names per property,NamesPerPropertyMetric,1.0,,http://example.org/OSKAR/projectStart
+Descriptions per data property,DescriptionsPerDataPropertyMetric,1.0,,http://example.org/OSKAR/projectStart
+Data properties with no name,DataPropertiesWithNoNameMetric,0.0,,http://example.org/OSKAR/projectStart
+Data properties with no synonym,DataPropertiesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/projectStart
+Descriptions per property,DescriptionsPerPropertyMetric,0.0,,http://purl.org/dc/elements/1.1/creator
+Annotation properties with no description,AnnotationPropertiesWithNoDescriptionMetric,1.0,,http://purl.org/dc/elements/1.1/creator
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://purl.org/dc/elements/1.1/creator
+Descriptions per annotation property,DescriptionsPerAnnotationPropertyMetric,0.0,,http://purl.org/dc/elements/1.1/creator
+Names per property,NamesPerPropertyMetric,0.0,,http://purl.org/dc/elements/1.1/creator
+Synonyms per annotation property,SynonymsPerAnnotationPropertyMetric,0.0,,http://purl.org/dc/elements/1.1/creator
+Names per annotation property,NamesPerAnnotationPropertyMetric,0.0,,http://purl.org/dc/elements/1.1/creator
+Annotation properties with no synonym,AnnotationPropertiesWithNoSynonymMetric,1.0,,http://purl.org/dc/elements/1.1/creator
+Annotation properties with no name,AnnotationPropertiesWithNoNameMetric,1.0,,http://purl.org/dc/elements/1.1/creator
+Descriptions per property,DescriptionsPerPropertyMetric,1.0,,http://example.org/OSKAR/contains
+Names per property,NamesPerPropertyMetric,1.0,,http://example.org/OSKAR/contains
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://example.org/OSKAR/contains
+Object properties with no synonym,ObjectPropertiesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/contains
+Synonyms per object property,SynonymsPerObjectPropertyMetric,0.0,,http://example.org/OSKAR/contains
+Object properties with no description,ObjectPropertiesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/contains
+Names per object property,NamesPerObjectPropertyMetric,1.0,,http://example.org/OSKAR/contains
+Object properties with no name,ObjectPropertiesWithNoNameMetric,0.0,,http://example.org/OSKAR/contains
+Descriptions per object property,DescriptionsPerObjectPropertyMetric,1.0,,http://example.org/OSKAR/contains
+Descriptions per property,DescriptionsPerPropertyMetric,1.0,,http://example.org/OSKAR/duration
+Names per data property,NamesPerDataPropertyMetric,1.0,,http://example.org/OSKAR/duration
+Synonyms per data property,SynonymsPerDataPropertyMetric,0.0,,http://example.org/OSKAR/duration
+Names per property,NamesPerPropertyMetric,1.0,,http://example.org/OSKAR/duration
+Data properties with no description,DataPropertiesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/duration
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://example.org/OSKAR/duration
+Descriptions per data property,DescriptionsPerDataPropertyMetric,1.0,,http://example.org/OSKAR/duration
+Data properties with no name,DataPropertiesWithNoNameMetric,0.0,,http://example.org/OSKAR/duration
+Data properties with no synonym,DataPropertiesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/duration
+Descriptions per property,DescriptionsPerPropertyMetric,0.0,,http://purl.org/dc/terms/issued
+Annotation properties with no description,AnnotationPropertiesWithNoDescriptionMetric,1.0,,http://purl.org/dc/terms/issued
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://purl.org/dc/terms/issued
+Descriptions per annotation property,DescriptionsPerAnnotationPropertyMetric,0.0,,http://purl.org/dc/terms/issued
+Names per property,NamesPerPropertyMetric,0.0,,http://purl.org/dc/terms/issued
+Synonyms per annotation property,SynonymsPerAnnotationPropertyMetric,0.0,,http://purl.org/dc/terms/issued
+Names per annotation property,NamesPerAnnotationPropertyMetric,0.0,,http://purl.org/dc/terms/issued
+Annotation properties with no synonym,AnnotationPropertiesWithNoSynonymMetric,1.0,,http://purl.org/dc/terms/issued
+Annotation properties with no name,AnnotationPropertiesWithNoNameMetric,1.0,,http://purl.org/dc/terms/issued
+Descriptions per property,DescriptionsPerPropertyMetric,0.0,,http://purl.org/dc/terms/created
+Annotation properties with no description,AnnotationPropertiesWithNoDescriptionMetric,1.0,,http://purl.org/dc/terms/created
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://purl.org/dc/terms/created
+Descriptions per annotation property,DescriptionsPerAnnotationPropertyMetric,0.0,,http://purl.org/dc/terms/created
+Names per property,NamesPerPropertyMetric,0.0,,http://purl.org/dc/terms/created
+Synonyms per annotation property,SynonymsPerAnnotationPropertyMetric,0.0,,http://purl.org/dc/terms/created
+Annotation properties with no synonym,AnnotationPropertiesWithNoSynonymMetric,1.0,,http://purl.org/dc/terms/created
+Names per annotation property,NamesPerAnnotationPropertyMetric,0.0,,http://purl.org/dc/terms/created
+Annotation properties with no name,AnnotationPropertiesWithNoNameMetric,1.0,,http://purl.org/dc/terms/created
+Classes with no name,ClassesWithNoNameMetric,0.0,,http://example.org/OSKAR/Activity
+Descriptions per class,DescriptionsPerClassMetric,1.0,,http://example.org/OSKAR/Activity
+Classes with no description,ClassesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/Activity
+Names per class,NamesPerClassMetric,1.0,,http://example.org/OSKAR/Activity
+Synonyms per class,SynonymsPerClassMetric,0.0,,http://example.org/OSKAR/Activity
+Classes with no synonym,ClassesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/Activity
+Descriptions per property,DescriptionsPerPropertyMetric,0.0,,http://purl.org/vocab/vann/preferredNamespaceUri
+Annotation properties with no description,AnnotationPropertiesWithNoDescriptionMetric,1.0,,http://purl.org/vocab/vann/preferredNamespaceUri
+Descriptions per annotation property,DescriptionsPerAnnotationPropertyMetric,0.0,,http://purl.org/vocab/vann/preferredNamespaceUri
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://purl.org/vocab/vann/preferredNamespaceUri
+Names per property,NamesPerPropertyMetric,0.0,,http://purl.org/vocab/vann/preferredNamespaceUri
+Synonyms per annotation property,SynonymsPerAnnotationPropertyMetric,0.0,,http://purl.org/vocab/vann/preferredNamespaceUri
+Names per annotation property,NamesPerAnnotationPropertyMetric,0.0,,http://purl.org/vocab/vann/preferredNamespaceUri
+Annotation properties with no synonym,AnnotationPropertiesWithNoSynonymMetric,1.0,,http://purl.org/vocab/vann/preferredNamespaceUri
+Annotation properties with no name,AnnotationPropertiesWithNoNameMetric,1.0,,http://purl.org/vocab/vann/preferredNamespaceUri
+Descriptions per property,DescriptionsPerPropertyMetric,0.0,,http://www.w3.org/2000/01/rdf-schema#label
+Annotation properties with no description,AnnotationPropertiesWithNoDescriptionMetric,1.0,,http://www.w3.org/2000/01/rdf-schema#label
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://www.w3.org/2000/01/rdf-schema#label
+Descriptions per annotation property,DescriptionsPerAnnotationPropertyMetric,0.0,,http://www.w3.org/2000/01/rdf-schema#label
+Names per property,NamesPerPropertyMetric,0.0,,http://www.w3.org/2000/01/rdf-schema#label
+Synonyms per annotation property,SynonymsPerAnnotationPropertyMetric,0.0,,http://www.w3.org/2000/01/rdf-schema#label
+Names per annotation property,NamesPerAnnotationPropertyMetric,0.0,,http://www.w3.org/2000/01/rdf-schema#label
+Annotation properties with no synonym,AnnotationPropertiesWithNoSynonymMetric,1.0,,http://www.w3.org/2000/01/rdf-schema#label
+Annotation properties with no name,AnnotationPropertiesWithNoNameMetric,1.0,,http://www.w3.org/2000/01/rdf-schema#label
+Descriptions per property,DescriptionsPerPropertyMetric,1.0,,http://example.org/OSKAR/activityId
+Synonyms per data property,SynonymsPerDataPropertyMetric,0.0,,http://example.org/OSKAR/activityId
+Names per data property,NamesPerDataPropertyMetric,1.0,,http://example.org/OSKAR/activityId
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://example.org/OSKAR/activityId
+Names per property,NamesPerPropertyMetric,1.0,,http://example.org/OSKAR/activityId
+Data properties with no description,DataPropertiesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/activityId
+Descriptions per data property,DescriptionsPerDataPropertyMetric,1.0,,http://example.org/OSKAR/activityId
+Data properties with no name,DataPropertiesWithNoNameMetric,0.0,,http://example.org/OSKAR/activityId
+Data properties with no synonym,DataPropertiesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/activityId
+Descriptions per property,DescriptionsPerPropertyMetric,1.0,,http://example.org/OSKAR/taskId
+Synonyms per data property,SynonymsPerDataPropertyMetric,0.0,,http://example.org/OSKAR/taskId
+Names per data property,NamesPerDataPropertyMetric,1.0,,http://example.org/OSKAR/taskId
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://example.org/OSKAR/taskId
+Data properties with no description,DataPropertiesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/taskId
+Names per property,NamesPerPropertyMetric,1.0,,http://example.org/OSKAR/taskId
+Descriptions per data property,DescriptionsPerDataPropertyMetric,1.0,,http://example.org/OSKAR/taskId
+Data properties with no name,DataPropertiesWithNoNameMetric,0.0,,http://example.org/OSKAR/taskId
+Data properties with no synonym,DataPropertiesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/taskId
+Descriptions per property,DescriptionsPerPropertyMetric,0.0,,http://www.w3.org/2000/01/rdf-schema#seeAlso
+Annotation properties with no description,AnnotationPropertiesWithNoDescriptionMetric,1.0,,http://www.w3.org/2000/01/rdf-schema#seeAlso
+Names per property,NamesPerPropertyMetric,0.0,,http://www.w3.org/2000/01/rdf-schema#seeAlso
+Descriptions per annotation property,DescriptionsPerAnnotationPropertyMetric,0.0,,http://www.w3.org/2000/01/rdf-schema#seeAlso
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://www.w3.org/2000/01/rdf-schema#seeAlso
+Synonyms per annotation property,SynonymsPerAnnotationPropertyMetric,0.0,,http://www.w3.org/2000/01/rdf-schema#seeAlso
+Annotation properties with no synonym,AnnotationPropertiesWithNoSynonymMetric,1.0,,http://www.w3.org/2000/01/rdf-schema#seeAlso
+Names per annotation property,NamesPerAnnotationPropertyMetric,0.0,,http://www.w3.org/2000/01/rdf-schema#seeAlso
+Annotation properties with no name,AnnotationPropertiesWithNoNameMetric,1.0,,http://www.w3.org/2000/01/rdf-schema#seeAlso
+Descriptions per property,DescriptionsPerPropertyMetric,0.0,,http://www.w3.org/2002/07/owl#versionInfo
+Annotation properties with no description,AnnotationPropertiesWithNoDescriptionMetric,1.0,,http://www.w3.org/2002/07/owl#versionInfo
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://www.w3.org/2002/07/owl#versionInfo
+Names per property,NamesPerPropertyMetric,0.0,,http://www.w3.org/2002/07/owl#versionInfo
+Descriptions per annotation property,DescriptionsPerAnnotationPropertyMetric,0.0,,http://www.w3.org/2002/07/owl#versionInfo
+Synonyms per annotation property,SynonymsPerAnnotationPropertyMetric,0.0,,http://www.w3.org/2002/07/owl#versionInfo
+Annotation properties with no synonym,AnnotationPropertiesWithNoSynonymMetric,1.0,,http://www.w3.org/2002/07/owl#versionInfo
+Names per annotation property,NamesPerAnnotationPropertyMetric,0.0,,http://www.w3.org/2002/07/owl#versionInfo
+Annotation properties with no name,AnnotationPropertiesWithNoNameMetric,1.0,,http://www.w3.org/2002/07/owl#versionInfo
+Descriptions per property,DescriptionsPerPropertyMetric,1.0,,http://example.org/OSKAR/carriedOutIn
+Synonyms per property,SynonymsPerPropertyMetric,0.0,,http://example.org/OSKAR/carriedOutIn
+Names per property,NamesPerPropertyMetric,1.0,,http://example.org/OSKAR/carriedOutIn
+Object properties with no synonym,ObjectPropertiesWithNoSynonymMetric,1.0,,http://example.org/OSKAR/carriedOutIn
+Synonyms per object property,SynonymsPerObjectPropertyMetric,0.0,,http://example.org/OSKAR/carriedOutIn
+Object properties with no description,ObjectPropertiesWithNoDescriptionMetric,0.0,,http://example.org/OSKAR/carriedOutIn
+Names per object property,NamesPerObjectPropertyMetric,1.0,,http://example.org/OSKAR/carriedOutIn
+Descriptions per object property,DescriptionsPerObjectPropertyMetric,1.0,,http://example.org/OSKAR/carriedOutIn
+Object properties with no name,ObjectPropertiesWithNoNameMetric,0.0,,http://example.org/OSKAR/carriedOutIn
